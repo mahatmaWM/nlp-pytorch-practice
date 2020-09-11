@@ -1,0 +1,35 @@
+你	你	r@0	O	O
+唱	唱	v@0	O	O
+歌	歌	v@1	O	O
+给	给	p@0	O	O
+我	我	r@0	O	O
+一	一	m@0	O	O
+点	点	m@1	O	O
+
+你	你	r@0	B-990869861389438976	B-song
+不	不	c@0	I-990869861389438976	I-song
+是	是	c@1	I-990869861389438976	I-song
+真	真	b@0	I-990869861389438976	I-song
+正	正	b@1	I-990869861389438976	I-song
+的	的	u@0	I-990869861389438976	I-song
+快	快	a@0	I-990869861389438976	I-song
+乐	乐	a@1	I-990869861389438976	I-song
+邓	邓	nr@0	B-990869861288775680	O
+紫	紫	nr@1	I-990869861288775680	O
+棋	棋	nr@2	I-990869861288775680	O
+2014	2014	m@0	O	O
+我	我	r@0	O	B-tvfilm
+是	是	v@0	O	I-tvfilm
+歌	歌	n@0	O	I-tvfilm
+手	手	n@1	O	I-tvfilm
+第	第	m@0	O	I-tvfilm
+二	二	m@0	O	I-tvfilm
+季	季	q@0	O	I-tvfilm
+
+我	我	r@0	O	O
+就	就	d@0	O	O
+听	听	v@0	O	O
+哪	哪	r@0	O	B-song
+个	个	r@1	O	I-song
+男	男	n@0	O	I-song
+人	人	n@1	O	I-song

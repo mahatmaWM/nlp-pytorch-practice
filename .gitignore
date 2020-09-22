@@ -3,6 +3,7 @@ __pycache__
 .idea
 build/
 model/
+data/
 *.bin
 *.pkl
 .data
